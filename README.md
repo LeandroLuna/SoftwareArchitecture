@@ -213,3 +213,25 @@ A seguir estão os doze fatores da metodologia:
 12. Admin Processes (Processos de Administração): Tarefas administrativas, como execução de scripts de banco de dados, devem ser tratadas como processos de uma única vez.
 
 Ao seguir os princípios da metodologia Twelve-Factor App, os desenvolvedores podem criar aplicativos modernos, altamente escaláveis, independentes de plataforma e fáceis de manter, preparando-os para funcionar de forma eficiente em ambientes distribuídos, como a nuvem. Essa abordagem se tornou amplamente adotada na indústria de desenvolvimento de software e é considerada uma referência para a construção de aplicações robustas e resilientes.
+
+### Características estruturais
+
+As características estruturais referem-se a aspectos específicos relacionados ao desenvolvimento da aplicação e como ela é projetada para ser flexível, configurável e facilmente mantida. Essas características estão relacionadas à arquitetura e design do software, tornando-o mais adaptável, extensível e portátil. Vamos detalhar cada uma delas:
+
+1. **Configurável**: O software deve ser projetado de forma a permitir configurações fáceis e flexíveis. Isso inclui a capacidade de configurar conexões com bancos de dados, APIs externas e outros recursos do sistema sem a necessidade de alterações no código fonte. A configuração pode ser feita através de variáveis de ambiente, arquivos de configuração ou outras formas que facilitem as mudanças sem modificar o código base.
+
+2. **Extensível**: A aplicação deve ser pensada para crescer de forma que seja possível adicionar novos recursos e funcionalidades sem modificar a estrutura existente. Isso é alcançado através do uso de interfaces, adaptadores e outros padrões de design que permitem a integração de novos componentes de forma isolada, sem impactar outras partes do sistema.
+
+3. **Fácil Instalação**: A aplicação deve ser de fácil instalação em diferentes ambientes, como produção, teste e staging. A padronização do ambiente é importante para garantir que a aplicação funcione de forma consistente em diferentes cenários. O uso de containers, como Docker, pode ajudar a padronizar e simplificar o processo de instalação.
+
+4. **Reutilização de Componentes**: A reutilização de componentes facilita a manutenção do software, permitindo que partes comuns sejam compartilhadas entre diferentes projetos. Isso evita a duplicação de código e reduz a complexidade do sistema. Criar bibliotecas ou módulos reutilizáveis é uma abordagem comum para alcançar essa característica.
+
+5. **Internacionalização**: Se a aplicação tiver a necessidade de suportar diferentes idiomas e culturas, a internacionalização é uma característica importante a ser considerada. Isso envolve pensar na forma como os recursos serão traduzidos, como as moedas e valores serão tratados para diferentes regiões e como a aplicação vai se comportar em ambientes multilíngues.
+
+6. **Fácil Manutenção**: A manutenção do software deve ser facilitada através de um código bem estruturado e testes automatizados. O uso de princípios como SOLID e a adoção de boas práticas de design ajudam a tornar o código mais fácil de ser modificado e mantido ao longo do tempo.
+
+7. **Portabilidade**: O software deve ser projetado para ser portável, ou seja, ter a capacidade de ser executado em diferentes ambientes e plataformas sem grandes modificações. Isso envolve a redução da dependência de fornecedores específicos e a utilização de tecnologias que permitem a migração entre diferentes sistemas.
+
+8. **Observabilidade**: A observabilidade refere-se à capacidade de monitorar e entender o comportamento do software em tempo de execução. Isso inclui a geração de logs, métricas e o uso de ferramentas de observabilidade que permitem identificar e resolver problemas rapidamente.
+
+Essas características estruturais são importantes para garantir que a aplicação seja flexível, adaptável e fácil de manter ao longo do tempo. Ao projetar e desenvolver um software, é essencial considerar esses aspectos para construir um sistema robusto e escalável.
