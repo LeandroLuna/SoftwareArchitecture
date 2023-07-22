@@ -72,8 +72,6 @@ Pode-se criar um checklist para aumento de performance de uma aplicação. O che
 
 - **Paralelismo:** É a execução simultânea de várias tarefas em diferentes núcleos de processamento ou máquinas distintas. O paralelismo permite que várias tarefas sejam executadas verdadeiramente ao mesmo tempo, resultando em um aumento significativo do poder de processamento e do desempenho. Em sistemas com suporte a paralelismo, várias tarefas podem ser executadas simultaneamente, melhorando a eficiência e a velocidade geral do processamento.
 
-Em resumo, escala vertical e escala horizontal são abordagens para aumentar a capacidade computacional de um sistema. A concorrência permite lidar com várias tarefas ao mesmo tempo, mesmo que cada uma seja processada em sequência, enquanto o paralelismo possibilita a execução simultânea de várias tarefas em diferentes núcleos ou máquinas, alcançando um maior poder de processamento e desempenho.
-
 ## Caching
 
 Caching (ou cache) é uma técnica utilizada para melhorar o desempenho e a eficiência de sistemas, especialmente em aplicações web. O cache armazena temporariamente dados que são frequentemente acessados ou processados para que possam ser recuperados rapidamente quando necessários novamente, em vez de serem recalculados ou buscados de suas fontes originais, como bancos de dados ou servidores.

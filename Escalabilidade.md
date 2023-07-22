@@ -30,8 +30,6 @@ Os pontos-chave para escalonar horizontalmente (adicionar mais máquinas) uma ap
 
 - **Aplicação Stateless**: A aplicação deve ser projetada como "stateless", o que significa que não armazena informações de estado na máquina local. Todo estado relevante deve ser armazenado externamente, permitindo que a aplicação seja facilmente replicada ou removida sem perder informações importantes.
 
-Em resumo, o escalonamento de aplicações requer a descentralização de dados, cache, sessões e outros elementos-chave, garantindo que a aplicação possa ser dimensionada horizontalmente, adicionando ou removendo máquinas conforme necessário. Isso permite que a aplicação seja mais flexível, resiliente e capaz de lidar com picos de demanda sem comprometer o desempenho.
-
 ## Escalando bancos de dados
 
 O escalonamento de banco de dados é uma tarefa complexa que envolve garantir que o sistema possa lidar com o aumento de carga e demanda, mantendo o desempenho adequado. 
@@ -47,8 +45,6 @@ Algumas estratégias e considerações importantes para escalar bancos de dados 
 - **Opções de Bancos de Dados**: Atualmente, há diversas opções de bancos de dados disponíveis, e é importante entender as necessidades da aplicação para escolher o banco de dados mais adequado. Além disso, a adoção de soluções serverless, em que o provedor de nuvem gerencia automaticamente a infraestrutura do banco de dados, pode ser uma alternativa interessante para simplificar o gerenciamento e a escalabilidade.
 
 - **Otimização do Banco de Dados**: Antes de escalar o banco de dados, é importante realizar otimizações. Isso inclui trabalhar com índices adequados para consultas, analisar o desempenho das queries usando ferramentas de monitoramento (APM - Application Performance Monitoring) e considerar a adoção de padrões como CQRS (Command Query Responsibility Segregation), que separam as operações de leitura e escrita para melhorar a performance.
-
-Em resumo, o escalonamento de banco de dados requer um cuidadoso planejamento e compreensão das necessidades da aplicação, bem como das soluções disponíveis. A adoção de estratégias como escalonamento horizontal, segregação de responsabilidades e otimização do banco de dados pode ajudar a garantir um desempenho adequado e uma experiência positiva para os usuários, mesmo em cenários de alta demanda.
 
 ## Proxy Reverso
 

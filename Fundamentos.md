@@ -24,8 +24,6 @@ Os arquitetos corporativos também são responsáveis por analisar e avaliar nov
 
 Outra responsabilidade dos arquitetos corporativos é planejar grandes implantações de sistemas, como migrações de sistemas monolíticos para arquiteturas baseadas em microsserviços. Essas implantações têm um impacto significativo em toda a empresa e exigem uma abordagem cuidadosa para garantir uma transição suave e eficiente.
 
-Em resumo, a arquitetura corporativa é uma disciplina que busca alinhar a tecnologia com os objetivos estratégicos da organização, garantindo a padronização, a eficiência e o sucesso dos projetos de TI em toda a empresa.
-
 ## Arquitetura de solução
 
 A arquitetura de soluções é uma área técnica que atua como intermediária entre a área de negócios e a área de software dentro de uma empresa. Os arquitetos de soluções são profissionais que possuem uma visão clara tanto dos aspectos técnicos quanto dos objetivos de negócio da organização. Seu principal papel é transformar os requisitos de negócio em soluções de software eficientes e alinhadas com as necessidades da empresa.
@@ -37,8 +35,6 @@ Além disso, o arquiteto de soluções analisa os impactos comerciais de diferen
 Os arquitetos de soluções também desempenham um papel importante nas etapas de pré-venda e venda de soluções. Eles frequentemente participam de reuniões com clientes para fornecer detalhes técnicos e ajudar a gerar soluções mais adequadas às necessidades dos clientes. Sua expertise técnica contribui para a qualidade das propostas e ajuda na tomada de decisões de compra.
 
 Ademais, os arquitetos de soluções são responsáveis por analisar os custos relacionados à implantação de software. Eles quantificam e metrificam os gastos envolvidos, incluindo licenças, integrações e migrações, permitindo uma previsibilidade financeira mais precisa para a solução como um todo.
-
-Em resumo, os arquitetos de soluções são profissionais técnicos com uma compreensão profunda do negócio da empresa. Eles são capazes de traduzir os requisitos de negócio em soluções técnicas por meio de desenhos e diagramas, e também consideram os aspectos comerciais e financeiros das escolhas tecnológicas. Sua atuação é essencial para garantir que as soluções de software sejam eficientes, alinhadas com os objetivos do negócio e atendam às necessidades da empresa.
 
 ## Arquitetura de software
 
@@ -53,8 +49,6 @@ Isso significa que a organização dos times de desenvolvimento pode influenciar
 Uma definição formal de arquitetura de software da ISO destaca que ela é a organização fundamental de um sistema, seus componentes, relações e ambiente, bem como os princípios que orientam seu design e evolução. Isso ressalta a importância de considerar não apenas o momento atual de desenvolvimento, mas também a sustentabilidade e a evolução futura do software.
 
 Os arquitetos de software devem pensar não apenas no curto prazo, mas também a longo prazo, planejando a evolução do software para atender às necessidades do negócio ao longo do tempo. Eles têm a responsabilidade de criar um conjunto de componentes que trabalhem em conjunto para alcançar os objetivos do negócio a curto, médio e longo prazo, garantindo a sustentabilidade e eficiência do software.
-
-Em resumo, a arquitetura de software é a disciplina que define a organização e estrutura detalhada do software, considerando os objetivos de negócio e as restrições técnicas. Os arquitetos de software desempenham um papel fundamental no processo de desenvolvimento, projetando soluções sustentáveis e orientadas para o futuro, que atendam às necessidades da empresa em diferentes momentos.
 
 ### Papel do arquiteto de software
 
@@ -86,8 +80,6 @@ Aprender arquitetura de software é fundamental para desenvolvedores e desenvolv
 
 Aprender arquitetura de software também implica mergulhar em padrões de projetos, desenvolvimento e boas práticas. Isso possibilita ao desenvolvedor entender como projetar e padronizar o software, componentizar as soluções e aproveitar a experiência de padrões já consolidados para facilitar o desenvolvimento.
 
-Em suma, a arquitetura de software é uma competência valiosa para qualquer desenvolvedor, pois oferece uma visão mais completa do processo de desenvolvimento, capacidade de tomar decisões embasadas e maior confiança para enfrentar desafios de forma sustentável. Mesmo que a pessoa não deseje ser um arquiteto formalmente, adquirir esse conhecimento é uma vantagem significativa em sua carreira.
-
 ### Arquitetura vs Design de Software
 
 Para muitas pessoas, arquitetura e design de software são considerados a mesma coisa, porém, a arquitetura de software envolve o escopo global do software, ou seja, é uma visão mais ampla que permite ver as componentes, a forma de comunicação e as abstrações do sistema. Por outro lado, o design de software está relacionado a um escopo mais local, envolvendo decisões específicas, como a redução de responsabilidades de uma classe ou a implementação de um padrão para facilitar a estratégia.
@@ -105,8 +97,6 @@ Desenvolver software é um processo caro, e as empresas que investem em tecnolog
 O software sustentável é aquele que consegue se manter atualizado e adaptável às mudanças nas necessidades da empresa e do mercado. Se o software não for bem projetado desde o início, ele pode se tornar difícil de evoluir, levando a constantes retrabalhos e refatorações, o que pode ser caro e prejudicial para a empresa. Isso pode resultar em um ciclo vicioso em que a empresa nunca atinge o ponto em que o custo do software é menor do que o valor que ele traz para o negócio.
 
 A sustentabilidade no dia zero requer um planejamento cuidadoso e uma arquitetura bem pensada, garantindo que o software possa crescer, adaptar-se e evoluir de maneira eficiente. Isso envolve considerar componentes evolutivos, escolher as tecnologias certas, e manter uma arquitetura que possa ser escalável e flexível ao longo do tempo.
-
-Em resumo, a sustentabilidade no dia zero é um princípio-chave para garantir que o desenvolvimento de software seja um investimento eficiente e lucrativo para a empresa, permitindo que o software se pague ao longo do tempo e continue gerando valor para o negócio.
 
 ### Pilares da arquitetura de software
 
@@ -139,5 +129,3 @@ Alguns pontos importantes sobre os Requisitos Arquiteturais:
 - Abrangência: Os RA's podem abranger todas as áreas da empresa que serão afetadas pelo software. Isso inclui, por exemplo, requisitos voltados para marketing, auditoria e outras áreas específicas que precisam ser consideradas no projeto.
 
 - Processo de Coleta: A coleta de requisitos arquiteturais envolve interação com os domain experts, executivos e outros stakeholders para entender as necessidades, regras e critérios que devem ser incorporados à arquitetura do software.
-
-Em resumo, os Requisitos Arquiteturais são fundamentais para garantir que o software seja projetado de forma coesa, atendendo a todas as expectativas e necessidades das áreas envolvidas. Eles fornecem diretrizes claras para a tomada de decisões arquiteturais, tornando o desenvolvimento mais eficiente e reduzindo ruídos durante o processo de entrega do produto final.

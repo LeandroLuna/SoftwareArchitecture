@@ -16,8 +16,6 @@ Podemos destacar alguns pontos importantes sobre Características Arquiteturais:
 
 - Literatura Recomendada: Livro "Fundamentos de Arquitetura de Software".
 
-Em resumo, Características Arquiteturais são aspectos intencionais e planejados que permeiam o desenvolvimento do software, garantindo que o sistema atenda a requisitos não funcionais importantes e funcione de maneira eficiente, segura e confiável. Essas características são fundamentais para a construção de sistemas de qualidade, que possam se adaptar a situações diversas e evoluir de maneira consistente ao longo do tempo.
-
 ## Características Operacionais
 
 Características operacionais referem-se a aspectos específicos que impactam diretamente na operação e funcionamento do software. Ao desenvolver um sistema, é fundamental considerar essas características para garantir a disponibilidade, confiabilidade, segurança, robustez e escalabilidade da aplicação.
